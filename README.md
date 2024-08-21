@@ -52,7 +52,7 @@ To get started with the USER MANAGEMENT API, follow the instructions below to se
 5. **Run the server:**
 
     ```bash
-    uvicorn main:app --reload
+    uvicorn app:app --reload
     ```
 
 ## Usage
