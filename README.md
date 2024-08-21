@@ -13,7 +13,7 @@ Welcome to the USER MANAGEMENT API! This API provides endpoints for managing use
 
 ## Getting Started
 
-To get started with the USER MANAGEMENT SYSTEM, follow the instructions below to set up the project locally.
+To get started with the USER MANAGEMENT API, follow the instructions below to set up the project locally.
 
 ## Installation
 
