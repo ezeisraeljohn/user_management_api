@@ -20,7 +20,7 @@ To get started with the USER MANAGEMENT API, follow the instructions below to se
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/ezeisraeljohn/user-management-system.git
+    git clone https://github.com/ezeisraeljohn/user-management-api.git
     cd tim-events-api
     ```
 
