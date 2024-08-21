@@ -50,7 +50,7 @@ async def root():
         "title": "Welcome to the User Management API",
         "description": "This is a simple User Management API",
         "version": "0.1.0",
-        "documentation": "/api/v1/docs",
+        "documentation": "/docs",
     }
 
 
