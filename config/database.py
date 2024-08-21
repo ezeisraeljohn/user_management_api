@@ -4,6 +4,9 @@ from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 from sqlalchemy.orm import declarative_base
 import os
+import pymysql
+
+pymysql.install_as_MySQLdb()
 
 SQLALCHEMY_DATABASE_URL = os.getenv("DATABASE_URL")
 CA_CERT_PATH = os.getenv("CA_CERT_PATH")
